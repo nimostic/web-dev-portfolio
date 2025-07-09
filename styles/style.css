@@ -333,3 +333,9 @@ input:focus, textarea:focus {
   outline: none;
   box-shadow: 0 0 5px rgba(253, 110, 10, 0.5);
 }
+hr {
+  width: 550px;
+  height: 1px;
+  background-color: #D1D1D1;
+  border: none;
+}
