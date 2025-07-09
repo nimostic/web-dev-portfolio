@@ -1,0 +1,3 @@
+.about-item*4>p.item-title+p.item-description
+
+4ta div a 2ta kore p tag hobe
